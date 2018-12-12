@@ -136,8 +136,7 @@ public class ItemArray {
             items[107]=new Item("Fish Sandwich", new BigDecimal(6.99), Color.ORANGE, true);
             items[108]=new Item("Tender Fry Drink", new BigDecimal(8.99), Color.ORANGE, true);
             items[109]=new Item("Boom Boom", new BigDecimal(6.09), Color.ORANGE, true);      
-        }    
-       
+        }          
     }
     
     public Item[] getItemArray(){
